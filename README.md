@@ -1,8 +1,8 @@
-
+# Public APIs 
 
 A collective list of free APIs for use in software and web development.
 
-A public API for this project can be found [here](https://github.com/davemachado/public-api)!
+A public API for this project can be found [here](https://github.com/SahinurINFO/public-API/)!
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
